@@ -40,6 +40,6 @@ Summer School Project
 ## 📁 Data and Report Access
 
 Due to file size limits on GitHub, full datasets and PDFs are hosted on Google Drive:  
-🔗 [Google Drive Folder]([https://drive.google.com/drive/folders/1XbqpTS7TuyKwOPIYCTL3a3DK3lla7Hqd?usp=sharing])
+🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1XbqpTS7TuyKwOPIYCTL3a3DK3lla7Hqd?usp=sharing)
 
 
