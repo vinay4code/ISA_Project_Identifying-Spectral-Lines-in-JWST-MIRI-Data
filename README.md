@@ -4,14 +4,16 @@
 This project extracts and analyzes mid-infrared spectra from JWST MIRI data for the Seyfert galaxy NGC 7469. It demonstrates spectral feature extraction using Python and identifies key emission lines from different regions of the galaxy.
 
 ## 🗂️ Repository Structure
+```
 JWST_MIRI_Project/
-├── notebooks/ # Jupyter notebooks (spectral extraction, plotting)
-├── data/ # Sample FITS cubes (small or trimmed)
-├── regions/ # DS9 region files (.reg)
-├── figures/ # Plot images (e.g., spectra.png)
-├── report/ # LaTeX source (.tex) and final report (.pdf)
-├── README.md # Project overview and instructions
-└── requirements.txt # Python packages (Astropy, SpectralCube, etc.)
+├── notebooks/         # Jupyter notebooks (spectral extraction, plotting)
+├── data/              # Sample FITS cubes (small or trimmed)
+├── regions/           # DS9 region files (.reg)
+├── figures/           # Plot images (e.g., spectra.png)
+├── report/            # LaTeX source (.tex) and final report (.pdf)
+├── README.md          # Project overview and instructions
+└── requirements.txt   # Python packages (Astropy, SpectralCube, etc.)
+```
 
 
 ## 🛠️ Tools Used
