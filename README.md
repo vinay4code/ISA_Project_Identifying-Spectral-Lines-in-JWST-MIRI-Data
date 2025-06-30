@@ -10,7 +10,7 @@ JWST_MIRI_Project/
 ├── data/              # Sample FITS cubes (small or trimmed)
 ├── regions/           # DS9 region files (.reg)
 ├── figures/           # Plot images (e.g., spectra.png)
-├── report/            # LaTeX source (.tex) and final report (.pdf)
+├── report/            # final report (.pdf)
 ├── README.md          # Project overview and instructions
 └── requirements.txt   # Python packages (Astropy, SpectralCube, etc.)
 ```
